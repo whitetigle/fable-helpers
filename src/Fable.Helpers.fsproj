@@ -4,6 +4,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Fable.Helpers.Node.IO.fs" />
+    <Compile Include="Fable.Helpers.WebGenerator.fs" />
   </ItemGroup>
   <Import Project="..\.paket\Paket.Restore.targets" />
 </Project>
